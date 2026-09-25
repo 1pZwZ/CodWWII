@@ -7,7 +7,9 @@
 2- When it asks, chose "REPLACE EXISTING FILES"
 
 3- In the Same Folder of the game, Look for the file named " Steam_emu.ini " and Open it 
-#### For guidance on which lines to change, look at the picture bellow 
+### For guidance on which lines to change, look at the picture bellow 
+
+<img width="1066" height="610" alt="Image" src="https://github.com/user-attachments/assets/505c94cd-7497-4d4b-9eeb-d36d7486c840" />
 
 4- as for the first red circle, you will find a hashtag '#' before that line, just remove it. 
 
